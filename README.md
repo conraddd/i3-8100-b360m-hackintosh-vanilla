@@ -13,7 +13,7 @@ This repo provides the functioning EFI folder which is build from the offical Va
 2. Asrock B360m itx/ac 
 3. Apple Airport BCM94331CD WIFI+Bluetooth card
 4. KLEVV DDR4 2400 8GB x2
-5. Galaxy GeForce GT 740 1GB GDDR5
+5. ~~Galaxy GeForce GT 740 1GB GDDR5~~ MSI RX 570 4GB (I found that GT 740 is not smooth enough so that I decided to switch to a RX 570. No extra kext is needed and it works perfectly.)
 6. Curcial MX500 500GB SATA SSD
 7. Corsair VS450 450W PSU
 8. Silverstone SG13 ITX Case
